@@ -1,0 +1,72 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+#hero-bg-dp {
+    position: relative;
+    margin-right: 100px;
+    margin-top: 200px;
+    padding-top: 10px;
+    width: 600px;
+    opacity: 17;
+    border-radius: 20px;
+    background-color: rgba(75, 75, 85, 0.591);
+    opacity: .9;
+}
+
+.image-container {
+    position: relative;
+    }
+
+.image {
+    position: relative;
+    z-index: 1;
+    }
+
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    }
+
+.navbar-brand js-scroll-trigger {
+    width: 50px;
+}
+
+.img-fluid {
+    float: left;
+    margin-top: 10px;
+    width: 350px;
+    filter: brightness(0) invert(1);
+    margin-right: 40px;
+}
+
+#mainNav {
+    height: 150px;
+}
+
+#dpGear {
+    width: 510px;
+    margin-left: 90px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    opacity: .9;
+    float: right;
+    position: relative;
+}
+
+
+#img-fluidz {
+    width: 150px;
+    float: right;
+    margin-top: -140px;
+    margin-bottom: -140px;
+    margin-right: 400px;
+    filter: brightness(0) invert(1);
+}
+
+iframe {
+    position: absolute;
+    float: right;
+    margin-left: 800px;
+    width: 350px;
+    }
